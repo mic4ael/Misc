@@ -1,4 +1,4 @@
 Misc
 ====
 
-Misc projects involving different programming languages.
+Vigenere's cipher simple implementation with visualization in JavaScript.
